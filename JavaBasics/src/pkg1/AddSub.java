@@ -11,13 +11,14 @@ public class AddSub {
 		int e= a*b;
 		int f= b/a;
 		int g=b%a;
+		int z= a++;
 		
 		System.out.println(c);
 		System.out.println(d);
 		System.out.println(e);
 		System.out.println(f);
 		System.out.println(g);
-		
+		System.out.println(z);
 		
 		
 
