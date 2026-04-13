@@ -10,10 +10,10 @@ public class Ass_15 {
 	    Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter a number (1-7): ");
-        int day = sc.nextInt();
+        int day1 = sc.nextInt();
 			
 				
-switch (day)
+switch (day1)
 {
 case 1: System.out.println("Monday");
 break;
