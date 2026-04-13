@@ -1,6 +1,6 @@
 package pkg5;
 
-public class Ass_2 {
+public class Ass_02 {
 	 int i;
 	public static void main(String[] args) {
 		byte a=10; //primitive
@@ -12,7 +12,7 @@ public class Ass_2 {
 		 char g='a';
 		 boolean bool=true;
 		  String str="default"; //non-primitive
-Ass_2 obj = new Ass_2();//non-primitive
+Ass_02 obj = new Ass_02();//non-primitive
 int[] arr = {1,2,3,4,5};
 System.out.println(a);
 System.out.println(b);
